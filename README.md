@@ -1,5 +1,7 @@
 # Hi there 👋 , I'm Rohan 🚀  
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=I'm+Analyst+Systems+%26+Technical+Engineer+;I+write+articles+on+Dev.to+-+redhcp)](https://git.io/typing-svg)
+
 ### 👨‍💻 About Me  
 - 💡 Passionate about **Web Development & Software Engineering**.  
 - 🌱 Currently learning **MERN stack, Java, Python, and Advanced Algorithms**.  
@@ -33,7 +35,7 @@
 ## 🌎 Connect With Me  
 - 📧 Email: [rohanambig585@gmail.com](mailto:rohanambig585@gmail.com)  
 - 💼 LinkedIn: [Rohan Ambig](https://www.linkedin.com/in/rohanambig/)  
-- 🌍 Portfolio: [YourPortfolio.com](https://yourportfolio.com) *(Replace with your actual portfolio link!)*  
+- 🌍 Portfolio: [YourPortfolio.com]() 
 
 ---
 
