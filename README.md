@@ -32,14 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rohanambig&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanambig&layout=compact&theme=radical" />
-</div>
-
----
-
 ## 🌎 Connect With Me  
 - 📧 Email: [rohanambig585@gmail.com](mailto:rohanambig585@gmail.com)  
 - 💼 LinkedIn: [Rohan Ambig](https://www.linkedin.com/in/rohanambig/)  
