@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Rohan 🚀  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=I'm+Analyst+Systems+%26+Technical+Engineer+;I+write+articles+on+Dev.to+-+redhcp)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=I'm+Fullstack+developer+%26+Software+developer;I+write+articles+on+Dev.to+-+redhcp)](https://git.io/typing-svg)
 
 ### 👨‍💻 About Me  
 - 💡 Passionate about **Web Development & Software Engineering**.  
