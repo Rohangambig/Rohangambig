@@ -1,6 +1,4 @@
-# Hi there 👋
-
-#  I'm Rohan 🚀  
+# Hi there 👋 , I'm Rohan 🚀  
 
 ### 👨‍💻 About Me  
 - 💡 Passionate about **Web Development & Software Engineering**.  
