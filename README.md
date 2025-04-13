@@ -31,7 +31,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohangambig&show_icons=true&count_private=true)
 
 ## 🌎 Connect With Me  
 - 📧 Email: [rohanambig585@gmail.com](mailto:rohanambig585@gmail.com)  
